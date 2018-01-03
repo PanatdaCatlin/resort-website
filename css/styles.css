@@ -1,1 +1,21 @@
-/*test*/
+body {
+  text-align: center;
+  background-color: #04d6af;
+}
+
+ul {
+  display: inline-block;
+  text-align: left;
+}
+
+h1 {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  color: blue;
+}
